@@ -81,7 +81,7 @@
 <img src="https://img.shields.io/badge/gmail-D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/> 
 </a>
 <a href="https://instagram.com/Junaidkhalid20001">
-<img src="https://img.shields.io/badge/Instagram%20-%231DA1F2.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Instagram%20-%231DA1F2.svg?&style=for-the-badge&logo=Instagram&logoColor= #fb3958 RGB"/> 
 </a>
 <a href="https://www.facebook.com/profile.php?id=100005237594657">
 <img src="https://img.shields.io/badge/Facebook%20-%231DA1F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/> 
