@@ -90,4 +90,4 @@
 [![Junaid Khalid github stats](https://github-readme-stats.vercel.app/api?username=Junaid20001&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://camo.githubusercontent.com/afcae3906e463aaaef8d4e3d8eee5f30c684f11aba029507763b368fddb5f26e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d66696c697074726f6e6963656b26686964655f6c616e67735f62656c6f773d31)](https://github.com/Junaid20001/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junaid20001&theme=highcontrast&langs_count=6)](https://github.com/Junaid20001/github-readme-stats)
