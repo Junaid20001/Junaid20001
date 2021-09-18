@@ -10,8 +10,8 @@
 
 ##### Life of a Programmer in Simple Jokes That Will Make You Laugh but, passionate about new technologies 😃
 
--👨‍💻 I am currently working on Javascript & React
-- 🌱 I am currently learning Next.js & G
+- 👨‍💻 I am currently working on Javascript & React
+- 🌱 I am currently learning Mongodb
 - 💫 Looking to contribute to open-source
 
 <!-- <h4 align="center"> 
