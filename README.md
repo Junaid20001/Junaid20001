@@ -33,7 +33,7 @@
 <img style="margin: 0 5px;" src='./tech-images/react.svg'  width="30" height="30" alt='React' />
 <img style="margin: 0 5px;" src='./tech-images/sass.svg'  width="30" height="30" alt='Sass' />
 <img  style="margin: 0 5px;"src='./tech-images/Babel_Logo.png'  width="50" height="30" alt='BableJs' />
-<img style="margin: 0 5px;" src='./tech-images/tailwindcss.svg'  width="30" height="30" alt='Tailwindcss' />
+<img style="margin: 0 5px;" src='./tech-images/tailwindcss'  width="30" height="30" alt='Tailwindcss' />
 </div>
 
 <br />
