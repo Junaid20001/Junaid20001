@@ -8,7 +8,7 @@
 
 
 
-##### Life of a Programmer in Simple Jokes That Will Make You Laugh but, passionate about new technologie's 😃
+##### Life of a Programmer in Simple Jokes That Will Make You Laugh but, passionate about new technologies 😃
 
 - 👨‍💻 I am currently working on Javascript & React
 - 🌱 I am currently learning Mongodb
