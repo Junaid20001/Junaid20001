@@ -32,6 +32,8 @@
 <img style="margin: 0 5px;" src='./tech-images/javascript.svg'  width="30" height="30" alt='Javascript' />
 <img style="margin: 0 5px;" src='./tech-images/react.svg'  width="30" height="30" alt='React' />
 <img style="margin: 0 5px;" src='./tech-images/sass.svg'  width="30" height="30" alt='Sass' />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img  style="margin: 0 5px;"src='./tech-images/Babel_Logo.png'  width="50" height="30" alt='BableJs' />
 <img style="margin: 0 5px;" src='./tech-images/tailwindlogo.png'  width="30" height="30" alt='Tailwindcss' />
 </div>
@@ -88,5 +90,4 @@
 [![Junaid Khalid github stats](https://github-readme-stats.vercel.app/api?username=Junaid20001&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junaid20001&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsantariq792&theme=highcontrast&langs_count=8)](https://github.com/Junaid20001/github-readme-stats)
