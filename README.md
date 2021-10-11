@@ -37,7 +37,7 @@
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img  style="margin: 0 5px;"src='./tech-images/Babel_Logo.png'  width="50" height="30" alt='BableJs' />
-<img style="margin: 0 5px;" src='./tech-images/tailwindlogo.png'  width="30" height="25" alt='Tailwindcss' />
+<img style="margin: 0 5px;" src='./tech-images/tailwindlogo.png'  width="25" height="20" alt='Tailwindcss' />
 </div>
 
 <br />
