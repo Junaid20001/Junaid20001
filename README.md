@@ -31,6 +31,7 @@
 <div style="display: flex; align-items: center;">
 <img style="margin: 0 5px;" src='./tech-images/javascript.svg'  width="30" height="30" alt='Javascript' />
 <img style="margin: 0 5px;" src='./tech-images/react.svg'  width="30" height="30" alt='React' />
+<img style="margin: 0 5px;" src='./tech-images/react-native.png'  width="30" height="30" alt='React' />
 <img style="margin: 0 5px;" src='./tech-images/sass.svg'  width="30" height="30" alt='Sass' />
 <img style="margin: 0 5px;" src='./tech-images/redux.svg'  width="30" height="30" alt='Redux' />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
