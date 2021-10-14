@@ -99,8 +99,4 @@
 [![Junaid Khalid github stats](https://github-readme-stats.vercel.app/api?username=Junaid20001&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Top Languages :
-  <a href="https://junaid20001.github.io/Stats.github.io/">
-<img style="margin: 90 100px;" src='./tech-images/JunaidStats.png'  width="70" height="80" alt='GithubStats' />
-</a>]
-  </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junaid20001&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
