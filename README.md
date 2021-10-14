@@ -100,6 +100,6 @@
 
 
 [![Top Langs]<a href="https://junaid20001.github.io/Stats.github.io/">
-<<img style="margin: 0 5px;" src='./tech-images/JunaidStats.png'  width="30" height="30" alt='React' />
+<img style="margin: 0 5px;" src='./tech-images/JunaidStats.png'  width="100" height="100" alt='GithubStats' />
 </a>]
   </div>
