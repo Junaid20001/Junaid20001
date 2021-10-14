@@ -99,5 +99,5 @@
 [![Junaid Khalid github stats](https://github-readme-stats.vercel.app/api?username=Junaid20001&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs][![Top Langs](https://junaid20001.github.io/Stats.github.io/?username=Junaid20001&theme=highcontrast&langs_count=8)(https://github.com/Junaid20001/Junaid20001/blob/main/README.md#-stats-)
+[![Top Langs]
   </div>
