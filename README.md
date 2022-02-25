@@ -93,7 +93,9 @@
 <br />
 
 
-![Snake animation](https://github.com/Junaid20001/Junaid20001/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](- Junaid20001: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v0.0.18
+)
 
 #### 📊 Stats :
 
