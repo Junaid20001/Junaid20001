@@ -93,7 +93,7 @@
 <br />
 
 
-![Snake animation](https://github.com/preethamb97/preethamb97/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Junaid20001/Junaid20001/blob/output/github-contribution-grid-snake.svg)
 
 #### 📊 Stats :
 
