@@ -11,7 +11,7 @@
 ##### Life of a Programmer in Simple Jokes That Will Make You Laugh but, passionate about new technologies 😃
 
 - 👨‍💻 I am currently working on Javascript & React
-- 🌱 I am currently learning Mongodb
+- 🌱 I am currently learning Microsoft SQL
 - 💫 Looking to contribute to open-source
 
 <!-- <h4 align="center"> 
@@ -45,7 +45,6 @@
 ##### ⚡️ Backend :
 
 <div style="display: flex; align-items: center;">
-<img style="margin: 0 5px;" src='./tech-images/nodejs.svg'  width="50" height="50" alt='NodeJs' />
 <img style="margin: 0 5px;" src='./tech-images/python.svg'  width="50" height="30" alt='Python' />
 </div>
 
@@ -55,7 +54,6 @@
 
 <div style="display: flex; align-items: center;">
 <img style="margin: 0 5px;" src='./tech-images/firebase.png'  width="40" height="40" alt='Firebase' />
-<img style="margin: 0 5px;" src='./tech-images/mongodb.svg'  width="40" height="40" alt='Mongodb' />
 </div>
 
 <br />
