@@ -1,4 +1,4 @@
-![image](https://github.com/Junaid20001/Junaid20001/assets/57348907/f9c1cde5-905e-473c-9434-4c33d5c75660)![image](https://github.com/Junaid20001/Junaid20001/assets/57348907/322a4bf9-6426-4d5d-b9fa-75d40cc04cad)### Hi there 👋
+### Hi there 👋
 
 ### I'm Junaid Khalid 👨‍💻💻💻 Software Developer .🇵🇰
 <hr style="height: 1px;">
