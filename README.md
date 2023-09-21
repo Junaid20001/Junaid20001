@@ -62,8 +62,8 @@
 ##### 🌟 Learning :
 
 <div style="display: flex; align-items: center;">
+<img style="margin: 0 5px;" src='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/microsoft-dynamics-icon.png'  width="40" height="35" alt='Dynamics365' />
 <img style="margin: 0 5px;" src='./tech-images/netlify.svg'  width="30" height="40" alt='Netlify' />
-<img style="margin: 0 5px;" src='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/microsoft-dynamics-icon.png'  width="50" height="50" alt='Dynamics365' />
 <img  style="margin: 0 5px;"src='./tech-images/surge.svg'  width="50" height="30" alt='Surge.sh' />
 
 </div>
