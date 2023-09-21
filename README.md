@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://github.com/Junaid20001/Junaid20001/assets/57348907/f9c1cde5-905e-473c-9434-4c33d5c75660)![image](https://github.com/Junaid20001/Junaid20001/assets/57348907/322a4bf9-6426-4d5d-b9fa-75d40cc04cad)### Hi there 👋
 
 ### I'm Junaid Khalid 👨‍💻💻💻 Software Developer .🇵🇰
 <hr style="height: 1px;">
@@ -10,8 +10,8 @@
 
 ##### Life of a Programmer in Simple Jokes That Will Make You Laugh but, passionate about new technologies 😃
 
-- 👨‍💻 I am currently working on Javascript & React
-- 🌱 I am currently learning Microsoft SQL
+- 👨‍💻 I am currently working on .Net Core
+- 🌱 I am currently learning Microsoft Dynamics 365
 - 💫 Looking to contribute to open-source
 
 <!-- <h4 align="center"> 
@@ -45,6 +45,7 @@
 ##### ⚡️ Backend :
 
 <div style="display: flex; align-items: center;">
+<img style="margin: 0 5px;" src='https://cdn.worldvectorlogo.com/logos/c--4.svg'  width="50" height="30" alt='C_Sharp' />
 <img style="margin: 0 5px;" src='./tech-images/python.svg'  width="50" height="30" alt='Python' />
 </div>
 
@@ -53,6 +54,7 @@
 ##### ⚡️ Other's Backend (Database) :
 
 <div style="display: flex; align-items: center;">
+<img style="margin: 0 5px;" src='https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg'  width="40" height="40" alt='Microsft SQL' />
 <img style="margin: 0 5px;" src='./tech-images/firebase.png'  width="40" height="40" alt='Firebase' />
 </div>
 
@@ -62,7 +64,7 @@
 
 <div style="display: flex; align-items: center;">
 <img style="margin: 0 5px;" src='./tech-images/netlify.svg'  width="30" height="40" alt='Netlify' />
-<img style="margin: 0 5px;" src='./tech-images/mysql.svg'  width="50" height="50" alt='MySql' />
+<img style="margin: 0 5px;" src='./tech-images/mysql.svg'  width="50" height="50" alt='Dynamics365' />
 <img  style="margin: 0 5px;"src='./tech-images/surge.svg'  width="50" height="30" alt='Surge.sh' />
 
 </div>
