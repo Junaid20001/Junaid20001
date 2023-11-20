@@ -72,7 +72,7 @@
 
 #### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/in/junaid-khalid-20001jk/">
+<a href="https://www.linkedin.com/in/junaid-khalid-20001jk/">
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://twitter.com/Junaidk20001">
