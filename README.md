@@ -31,7 +31,7 @@
 <div style="display: flex; align-items: center;">
 <img style="margin: 0 5px;" src='https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg'  width="30" height="30" alt='DotNetCore' />
 <img style="margin: 0 5px;" src='https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg'  width="30" height="30" alt='Angular' />
-<img style="margin: 0 5px;" src='https://en.m.wikipedia.org/wiki/TypeScript#/media/File%3ATypescript.svg'  width="30" height="30" alt='Typescript' />
+<img style="margin: 0 5px;" src='https://www.svgrepo.com/show/374144/typescript.svg'  width="30" height="30" alt='Typescript' />
 <img style="margin: 0 5px;" src='./tech-images/javascript.svg'  width="30" height="30" alt='Javascript' />
 <img style="margin: 0 5px;" src='./tech-images/sass.svg'  width="30" height="30" alt='Sass' />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
